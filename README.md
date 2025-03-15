@@ -41,8 +41,6 @@ RemoteRat is a remote administration tool that allows administrators to securely
 
 This software is intended for legitimate system administration and educational purposes only. Usage of RemoteRat for unauthorized access to computer systems is illegal and unethical.
 
----
-
 ## Contact
 
 For any questions or further discussion, please contact the author at: [fadouse@turings.org](mailto:fadouse@turings.org)
