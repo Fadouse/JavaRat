@@ -137,7 +137,3 @@ For any questions or discussions, please reach out to the author at: [fadouse@tu
 
 > **Disclaimer:** This project is provided only for legitimate research and system administration. The author assumes no responsibility for illegal or malicious use.
 
----
-
-**Additional Note:**  
-This README was adapted with a style similar to our other research-oriented security tools documentation.
