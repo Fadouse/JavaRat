@@ -99,8 +99,8 @@ RemoteRat/
   - Enable keyboard control
   - Execute system or shell commands
   - Send notifications
-  - Browse or manage files
-  - Extract browser cookies and QQ data
+  - Browse or manage files (TODO)
+  - Extract browser cookies and QQ data (TODO)
 
 ---
 
