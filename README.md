@@ -1,6 +1,6 @@
 # RemoteRat
 
-**RemoteRat** is a Java-based remote administration tool (RAT) that allows administrators to securely monitor and control client machines. This project leverages a client-server architecture and offers features such as screen sharing, camera access, keyboard control, and more. It is designed for legitimate system administration, research, and educational purposes only.
+**RemoteRat** is a Java-based Remote Access Trojan (RAT) that allows attacker to monitor and control client machines. This project leverages a client-server architecture and offers features such as screen sharing, camera access, keyboard control, and more. It is designed for legitimate system administration, research, and educational purposes only.
 
 > **Important Disclaimer**  
 > This project is provided for educational and administrative use cases only. Unauthorized or malicious use is strictly prohibited. The user bears full responsibility for any legal consequences arising from misuse of this software, and the author disclaims all liability.
